@@ -1,8 +1,3 @@
-# Commit do código inicial gerado para_Atividade de Extensão
-AppControleLote
-Vale ressaltar que os dados foram alterados para serem simulados, por questões de proteção de dados da empresa.
-Atividade de extensão para a ESTÁCIO.
-
 # Aplicativo de Controle de Lotes - LAB.CQ
 
 Aplicativo React Native simples para registro e consulta de aprovação de lotes pelo Laboratório de Controle de Qualidade.
